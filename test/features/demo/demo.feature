@@ -1,6 +1,6 @@
 Feature: Demo feature google example
 
-@Demo
+
     Scenario Outline: Scenario google data search
         Given google is open
         When i enter <searchKey> 
